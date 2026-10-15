@@ -1,3 +1,5 @@
 Dia 1: apredi a ler arquivos
 Dia 2: apredi a gravar arquivos
 Dia 3: aprendi modificar os arquivos
+Dia 4: aprendi a acrescentar linhas
+Dia 5: conclui o desafio da aula

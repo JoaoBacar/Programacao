@@ -1,6 +1,5 @@
-with open ('diario.txt', "w", encoding='utf-8') as arquivo:
-    arquivo.write("Dia 1: apredi a ler arquivos\n")
-    arquivo.write("Dia 2: apredi a gravar arquivos\n")
-    arquivo.write('Dia 3: aprendi modificar os arquivos\n')
-
+#Acrescentar duas linhas no arquivo sem apagar o está escrito
+with open('diario.txt', 'a', encoding='utf-8') as arquivo:
+    arquivo.write('Dia 4: aprendi a acrescentar linhas\n')
+    arquivo.write('Dia 5: conclui o desafio da aula\n')
    
